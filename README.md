@@ -1,7 +1,4 @@
-Hi, I am Emil, and this is my GitHub profile.
-
-I will *soon* update more info here.
-
+Mathematician with a strong passion and knowledge of computer science.
 ---
 <!---
 emivo/emivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
