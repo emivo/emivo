@@ -2,9 +2,6 @@
 
 About me:
 --
--  I am a mathematician deeply interest in computer science, especially in machine learning.
-
-- Exploring to expand expertise outside academia
 
 -  How to reach me: [emil-airta](https://www.linkedin.com/in/emil-airta/)
   
